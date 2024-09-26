@@ -1,4 +1,4 @@
-🔭 I’m currently working on Dynamics GP and Power Platform
+🔭 I’m currently working on Dynamics GP and Power Platform<br/>
 🌱 I’m currently learning so many things, or trying to learn many things
 👯 I’m looking to collaborate on Power Platform 
 🤔 I’m looking for help with Resources,guidence and possible opportunities of Power Platform
