@@ -4,6 +4,6 @@
 🤔 I’m looking for help with Resources,guidence and possible opportunities of Power Platform<br/>
 💬 Ask me about freelance wok<br/>
 📫 How to reach me? Just shoot me email at almasmahfooz@hotmail.com<br/>
-😄 Pronouns: I am much more interested in adjuctives then pronouns.(btw she/her/hers)<br/>
+😄 she/her/hers<br/>
 
 
