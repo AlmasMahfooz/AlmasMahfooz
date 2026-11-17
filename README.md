@@ -7,4 +7,4 @@
 
 ### 🏆 Certifications & Verified Proficiencies
 
-[![DP-700: Fabric Data Engineer](https://shields.io)]((https://learn.microsoft.com/api/credentials/share/en-us/AlmasMahfooz-5919/9544994C97FF48A4?sharingId=500F12BDE2F897DF))
+(https://learn.microsoft.com/en-us/users/almasmahfooz-5919/credentials/certification/data-analyst-associate?tab=credentials-tab)
