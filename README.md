@@ -7,4 +7,4 @@
 
 ### 🏆 Certifications & Verified Proficiencies
 
-(https://learn.microsoft.com/en-us/users/almasmahfooz-5919/credentials/certification/data-analyst-associate?tab=credentials-tab)
+[![(https://learn.microsoft.com/en-us/users/almasmahfooz-5919/credentials/certification/data-analyst-associate?tab=credentials-tab)]]
