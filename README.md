@@ -7,8 +7,8 @@
 
 
 <p align="left">
-  <a href="YOUR_DP600_VERIFICATION_URL" target="_blank">
-    <img src="YOUR_DP600_BADGE_IMAGE_URL" alt="Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)" width="65" />
+  <a href="https://learn.microsoft.com/en-us/training/achievements/microsoft-ai-skills-fest.svg" target="_blank">
+    <img src="https://learn.microsoft.com/en-us/training/achievements/microsoft-ai-skills-fest.svg" alt="Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)" width="65" />
   </a>
   <a href="YOUR_DP700_VERIFICATION_URL" target="_blank">
     <img src="YOUR_DP700_BADGE_IMAGE_URL" alt="Microsoft Certified: Fabric Data Engineer Associate (DP-700)" width="65" />
@@ -20,3 +20,5 @@
     <img src="YOUR_CREDLY_COPILOT_IMAGE_URL" alt="GitHub Copilot Verified Proficiency" width="65" />
   </a>
 </p>
+
+https://learn.microsoft.com/en-us/training/achievements/microsoft-ai-skills-fest.svg
