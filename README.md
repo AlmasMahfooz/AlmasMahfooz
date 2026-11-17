@@ -1,8 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=AlmasMahfooz)
 
-MSFTHUB
-https://certs.msfthub.wiki/vouchers/microsoftesi/
+[![almas-mahfooz's Credly grid card](https://credly-readme-stats.onrender.com/api/grid?username=almas-mahfooz)](https://www.credly.com/users/almas-mahfooz/badges)
 
-https://www.microsoft.com/en/emea/partners-events
 
 
