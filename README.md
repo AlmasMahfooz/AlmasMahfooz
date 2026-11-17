@@ -21,4 +21,4 @@
   </a>
 </p>
 
-https://learn.microsoft.com/en-us/training/achievements/microsoft-ai-skills-fest.svg
+
