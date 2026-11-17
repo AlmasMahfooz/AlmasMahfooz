@@ -10,15 +10,11 @@
   <a href="https://learn.microsoft.com/api/achievements/share/en-us/AlmasMahfooz-5919/9Y8AW2PU?sharingId=500F12BDE2F897DF" target="_blank">
     <img src="https://learn.microsoft.com/en-us/training/achievements/microsoft-ai-skills-fest.svg" alt="Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)" width="65" />
   </a>
-  <a href="YOUR_DP700_VERIFICATION_URL" target="_blank">
-    <img src="YOUR_DP700_BADGE_IMAGE_URL" alt="Microsoft Certified: Fabric Data Engineer Associate (DP-700)" width="65" />
-  </a>
-  <a href="YOUR_PL300_VERIFICATION_URL" target="_blank">
-    <img src="YOUR_PL300_BADGE_IMAGE_URL" alt="Microsoft Certified: Power BI Data Analyst Associate (PL-300)" width="65" />
-  </a>
-  <a href="YOUR_CREDLY_COPILOT_VERIFICATION_URL" target="_blank">
-    <img src="YOUR_CREDLY_COPILOT_IMAGE_URL" alt="GitHub Copilot Verified Proficiency" width="65" />
-  </a>
 </p>
 
+<p align="left">
+  <a href="https://learn.microsoft.com/api/achievements/share/en-us/AlmasMahfooz-5919/9Y8AW2PU?sharingId=500F12BDE2F897DF" title="Microsoft AI Skills Fest Achievement">
+    <img src="https://learn.microsoft.com/en-us/training/achievements/microsoft-ai-skills-fest.svg" alt="Microsoft AI Skills Fest Achievement" width="65" />
+  </a>
+</p>
 
