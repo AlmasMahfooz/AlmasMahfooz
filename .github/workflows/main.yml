@@ -4,7 +4,7 @@
   uses: hairbui76/credly-badges@v1.0.4
   with:
     # Credly username
-    CREDLY_USER: 
+    CREDLY_USER: almas-mahfooz
     # Git commit message
     GIT_COMMIT_MESSAGE: # optional, default is Update Credly badges
     # Git user name for commits
