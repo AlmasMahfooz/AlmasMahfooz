@@ -20,3 +20,6 @@
 <a href="/html/body/main/div/div/div/div[2]/section/div/section[5]/div/ol/html/body/main/div/div/div/div[2]/section/div/section[5]/div/ol">
   <img src="https://microsoft.com" alt="Women in Cloud Document Intelligence Skilling" width="75" />
 </a>
+
+* 🏅 **Badge:** [Women in Cloud Document Intelligence Skilling](https://microsoft.com) — *Completed on 6/3/2025*
+
