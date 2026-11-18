@@ -10,7 +10,7 @@
 
 
 
-<a href="https://learn.microsoft.com/en-us/users/almasmahfooz-5919/credentials/certification/data-analyst-associate?tab=credentials-tab&source=docs">
+<a href="https://learn.microsoft.com/en-us/users/almasmahfooz-5919/credentials?tab=credentials-tab&source=docs">
   <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main" alt="Power BI Data Analyst Associate" width="120" />
 </a>
 
