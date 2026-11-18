@@ -23,3 +23,8 @@
 
 * 🏅 **Badge:** [Women in Cloud Document Intelligence Skilling](https://microsoft.com) — *Completed on 6/3/2025*
 
+### <img src="https://microsoft.com" width="28" align="center" alt="Badge Icon" /> [Women in Cloud Document Intelligence Skilling](https://microsoft.com)
+
+* **Type:** Microsoft Learn Challenge Badge
+* **Completed on:** June 3, 2025
+* **Verification:** [View Official Achievement](https://microsoft.com)
