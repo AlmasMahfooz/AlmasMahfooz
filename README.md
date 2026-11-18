@@ -17,7 +17,7 @@
 
 [![Other Badges](https://www.credly.com/users/almas-mahfooz/edit/badges/other)
 
-<img src="https://credly-readme-stats.onrender.com/api/overview?username=almas-mahfooz)](https://www.credly.com/users/almas-mahfooz/badges/Other)
+[![almas-mahfooz's Credly overview card](https://credly-readme-stats.onrender.com/api/overview?username=almas-mahfooz)](https://www.credly.com/users/almas-mahfooz/badges/Others)
 
 
 
