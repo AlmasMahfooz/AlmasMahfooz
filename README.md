@@ -18,6 +18,6 @@
 
 
 * 🏅 **Badge:**
-[!Women in Cloud Document Intelligence Skilling](https://learn.microsoft.com/en-us/media/learn/challenge/challenge-achievement-icon.png)]
+[![Women in Cloud Document Intelligence Skilling](https://learn.microsoft.com/en-us/media/learn/challenge/challenge-achievement-icon.png)]
 
 
