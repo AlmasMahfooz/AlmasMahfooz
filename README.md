@@ -7,6 +7,8 @@
 </a>
 
 
+[![Other Badges](https://www.credly.com/users/almas-mahfooz/edit/badges/other)
+
 
 
 
