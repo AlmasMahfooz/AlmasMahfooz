@@ -43,12 +43,7 @@
 </div>
 <!-- CREDLY-BADGES:END -->
 
-<a href="https://learn.microsoft.com/en-us/users/almasmahfooz-5919/credentials/applied-skills/earned?tab=applied-skills-tab&source=docs">
-  <img src="https://learn.microsoft.com/en-us/media/learn/credential/badges/applied-skill.svg?branch=main?branch=main" alt="Applied Skills Earned" width="120" />
-</a>
 
-<a href="https://learn.microsoft.com/en-us/users/almasmahfooz-5919/credentials?tab=credentials-tab&source=docs">
-  <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main" alt="Power BI Data Analyst Associate" width="120" />
 </a>
 
 
