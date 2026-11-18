@@ -20,4 +20,5 @@ jobs:
           include-other: true
           output: svg
           style: flat
+          svg-mobile-path: assets/credly-badges-mobile.svg
           commit: true
