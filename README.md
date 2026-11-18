@@ -129,10 +129,10 @@
 </a><br>
 
 
-[!(https://github.com/AlmasMahfooz/AlmasMahfooz/blob/main/Images/gp1.webp)]
+![](https://github.com/AlmasMahfooz/AlmasMahfooz/blob/main/Images/gp1.webp)
 
 https://github.com/AlmasMahfooz/AlmasMahfooz/blob/main/Images/gp2.webp 
 https://github.com/AlmasMahfooz/AlmasMahfooz/blob/main/Images/gp3.webp
 
-
+![Women in Cloud Document Intelligence Skilling](https://learn.microsoft.com/en-us/media/learn/challenge/challenge-achievement-icon.png)
 
