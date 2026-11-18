@@ -127,3 +127,5 @@
 <a href="https://community.dynamics.com/profile/?userid=dee1ee99-f654-ed11-bba3-00224827e905">
   <img src="https://github.com/AlmasMahfooz/AlmasMahfooz/blob/main/Images/gp%20badges.png" alt="Dynamics GP Community Badges"  />
 </a>
+
+
