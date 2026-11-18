@@ -6,12 +6,6 @@
   <img src="https://learn.microsoft.com/en-us/media/learn/credential/badges/applied-skill.svg?branch=main?branch=main" alt="Applied Skills Earned" width="120" />
 </a>
 
-
-[![Other Badges](https://www.credly.com/users/almas-mahfooz/edit/badges/other)
-
-
-
-
 <a href="https://learn.microsoft.com/en-us/users/almasmahfooz-5919/credentials?tab=credentials-tab&source=docs">
   <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main" alt="Power BI Data Analyst Associate" width="120" />
 </a>
@@ -20,6 +14,10 @@
 
 
 ![Women in Cloud Document Intelligence Skilling](https://learn.microsoft.com/en-us/media/learn/challenge/challenge-achievement-icon.png)
+
+[![Other Badges](https://www.credly.com/users/almas-mahfooz/edit/badges/other)
+
+<img src="https://credly-readme-stats.onrender.com/api/overview?username=almas-mahfooz/edit/badges/other)
 
 
 
