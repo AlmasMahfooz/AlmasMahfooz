@@ -122,4 +122,4 @@
 
 </div>
 <!-- CREDLY-BADGES:END -->
-![](https://komarev.com/ghpvc/?username=AlmasMahfooz)
+![(https://komarev.com/ghpvc/?username=AlmasMahfooz)]
