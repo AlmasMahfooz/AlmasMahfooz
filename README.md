@@ -130,9 +130,10 @@
 
 
 ![](https://github.com/AlmasMahfooz/AlmasMahfooz/blob/main/Images/gp1.webp)
-<a href="">
-  <img src="https://github.com/AlmasMahfooz/AlmasMahfooz/blob/main/Images/gp1.webp width="120" />
-</a>
+
+
+  <img src="https://github.com/AlmasMahfooz/AlmasMahfooz/blob/main/Images/gp1.webp" width="120" />
+
 
 https://github.com/AlmasMahfooz/AlmasMahfooz/blob/main/Images/gp2.webp 
 https://github.com/AlmasMahfooz/AlmasMahfooz/blob/main/Images/gp3.webp
