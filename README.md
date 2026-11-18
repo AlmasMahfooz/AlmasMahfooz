@@ -1,5 +1,5 @@
 <a href="https://stackoverflow.com/users/1312649/almas-mahfooz"><img src="https://stackoverflow.com/users/flair/1312649.png" width="208" height="58" alt="profile for Almas Mahfooz at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Almas Mahfooz at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a><br>
-🏅 [![StackOverflow](https://img.shields.io/badge/StackOverflow-Famous%20Question-1a7f37?style=plastic&logo=stackoverflow)](https://stackoverflow.com/help/badges/28/famous-question?userid=1312649)
+[![StackOverflow](https://img.shields.io/badge/StackOverflow-Famous%20Question-1a7f37?style=plastic&logo=stackoverflow)](https://stackoverflow.com/help/badges/28/famous-question?userid=1312649)
 
 
 
