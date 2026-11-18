@@ -4,7 +4,7 @@
 
 <!-- CREDLY-BADGES:START -->
 
-
+![My Credly badges](./assets/credly-badges.svg)
 
 
 🏅 **Industry Certifications**
