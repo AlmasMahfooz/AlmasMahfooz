@@ -43,12 +43,3 @@
 </div>
 <!-- CREDLY-BADGES:END -->
 
-
-</a>
-
-
-
-[![Microsoft AI Skills Fest Achievement](https://learn.microsoft.com/en-us/training/achievements/microsoft-ai-skills-fest.svg)](https://learn.microsoft.com/api/achievements/share/en-us/AlmasMahfooz-5919/9Y8AW2PU?sharingId=500F12BDE2F897DF)
-
-
-![Women in Cloud Document Intelligence Skilling](https://learn.microsoft.com/en-us/media/learn/challenge/challenge-achievement-icon.png)
