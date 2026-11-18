@@ -18,4 +18,5 @@ jobs:
           credly-username: "almas-mahfooz"
           output: svg
           svg-path: assets/credly-badges.svg
+          include-other: true
           commit: true
