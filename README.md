@@ -3,7 +3,8 @@
 ## Certifications
 
 <!-- CREDLY-BADGES:START -->
-[![My Credly badges](assets/credly-badges.svg)](https://www.credly.com/users/almas-mahfooz)
+
+![My Credly badges](./assets/credly-badges.svg)
 
 
 
