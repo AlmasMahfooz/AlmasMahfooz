@@ -18,4 +18,6 @@ jobs:
         with:
           credly-username: "almas-mahfooz"
           include-other: true
+          output: svg
+          style: flat
           commit: true
