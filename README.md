@@ -5,7 +5,10 @@ Introduction to   <br>
 KQL for Security  <br>
 Analysis
 </p>
-</a><br>
+</a>
+<img src="https://github.com/shannonlindsay/DataDays/blob/main/Images/Cert%20Loading/DP800%20Loading.JPG?raw=true) alt="DP-800"> <br>
+
+<br>
 
 <!-- CREDLY-BADGES:START -->
 ![My Credly badges](./assets/credly-badges.svg)
