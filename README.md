@@ -6,8 +6,7 @@ KQL for Security  <br>
 Analysis
 </p>
 </a>
-<img src="https://github.com/shannonlindsay/DataDays/blob/main/Images/Cert%20Loading/DP800%20Loading.JPG?raw=true) alt="DP-800"> <br>
-
+<img src="https://github.com/shannonlindsay/DataDays/blob/main/Images/Cert%20Loading/DP800%20Loading.JPG?raw=true) alt="DP-800" width="120"> 
 <br>
 
 <!-- CREDLY-BADGES:START -->
