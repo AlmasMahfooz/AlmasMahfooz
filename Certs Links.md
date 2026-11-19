@@ -1,4 +1,4 @@
-<a href="https://learn.microsoft.com/en-us/users/almasmahfooz-5919/credentials/applied-skills/earned?tab=applied-skills-tab&source=docs">
+<a href="https://learn.microsoft.com/en-us/users/almasmahfooz-5919/credentials/applied-skills/earned?tab=applied-skills-tab&source=docs"  target="_blank">
   <img src="https://learn.microsoft.com/en-us/media/learn/credential/badges/applied-skill.svg?branch=main?branch=main" alt="Applied Skills Earned" width="120" />
 </a>
 
