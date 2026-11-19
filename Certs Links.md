@@ -1,6 +1,9 @@
-<div align="center">
+<a href="https://learn.microsoft.com/en-us/users/almasmahfooz-5919/credentials/applied-skills/earned?tab=applied-skills-tab&source=docs">
+  <img src="https://learn.microsoft.com/en-us/media/learn/credential/badges/applied-skill.svg?branch=main?branch=main" alt="Applied Skills Earned" width="120" />
+</a>
 
-<a href="https://learn.microsoft.com/api/credentials/share/en-us/AlmasMahfooz-5919/3A5382CE20BF5D04?sharingId=500F12BDE2F897DF" target="_blank" title="Microsoft Certified: Fabric Analytics Engineer Associate"><img src="https://images.credly.com/size/100x100/images/00a85c3c-0055-4c80-959c-4705601cbc68/converted20261118-33-mb8s2f.png" alt="Microsoft Certified: Fabric Analytics Engineer Associate" width="100" height="100"></a>
+<a href="https://learn.microsoft.com/en-us/AlmasMahfooz-5919/3A5382CE20BF5D04?" target="_blank" title="Microsoft Certified: Fabric Analytics Engineer Associate"><img src="https://images.credly.com/size/100x100/images/00a85c3c-0055-4c80-959c-4705601cbc68/converted20261118-33-mb8s2f.png" alt="Microsoft Certified: Fabric Analytics Engineer Associate" width="100" height="100"></a>
+
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/AlmasMahfooz-5919/2280806C042806DF?sharingId=500F12BDE2F897DF" title="Microsoft Certified: Fabric Data Engineer Associate"><img src="https://images.credly.com/size/100x100/images/c93531ab-c1cc-4a5b-8b14-4bf963c885c2/converted20261118-33-5pu9t.png" alt="Microsoft Certified: Fabric Data Engineer Associate" width="100" height="100"></a>
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/AlmasMahfooz-5919/DD776A798080A75C?sharingId=500F12BDE2F897DF" title="Microsoft Certified: Power Platform Functional Consultant Associate"><img src="https://images.credly.com/size/100x100/images/5fe1580e-3f9b-487a-be0d-53a5d99c88cf/converted20261118-34-sdn062.png" alt="Microsoft Certified: Power Platform Functional Consultant Associate" width="100" height="100"></a>
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/AlmasMahfooz-5919/9544994C97FF48A4?sharingId=500F12BDE2F897DF" title="Microsoft Certified: Power BI Data Analyst Associate"><img src="https://images.credly.com/size/100x100/images/b7d1092b-cf92-426c-998b-6d865641f8be/converted20261118-32-fecqgl.png" alt="Microsoft Certified: Power BI Data Analyst Associate" width="100" height="100"></a>
@@ -112,4 +115,3 @@
 <a href="https://learn.microsoft.com/api/achievements/share/en-us/AlmasMahfooz-5919/Y28TNHFR?sharingId=500F12BDE2F897DF" title="Introducing Microsoft Dynamics 365 Business Central"><img src="https://images.credly.com/size/100x100/images/1efaafd7-b7bc-48c9-a11c-ecdee3f6a4c4/converted20261118-33-aqagm7.png" alt="Introducing Microsoft Dynamics 365 Business Central" width="100" height="100"></a>
 <a href="https://learn.microsoft.com/api/achievements/share/en-us/AlmasMahfooz-5919/D43584JN?sharingId=500F12BDE2F897DF" title="Create and use analytics reports with Power BI"><img src="https://images.credly.com/size/100x100/images/13f84d4a-93a5-4bf4-bec2-a7d2dc94eaed/converted20261118-30-4uvpm8.png" alt="Create and use analytics reports with Power BI" width="100" height="100"></a>
 
-</div>
