@@ -3,7 +3,7 @@
 <br><p style="text-align: center;">Hands-On  <br>
 Introduction to   <br>
 KQL for Security  <br>
-Analysis</title>
+Analysis
 </p>
 </a><br>
 
