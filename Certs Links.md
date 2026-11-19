@@ -12,7 +12,7 @@
 
 <div align="center">
 
-<a href="https://www.credly.com/badges/fbfd233a-9816-4f14-86de-86df782c8060" title="Microsoft Pro Badge: GitHub Copilot - Proficient"><img src="https://images.credly.com/size/100x100/images/86687ad2-84e0-4d7c-876e-ea6c9fe25d82/blob" alt="Microsoft Pro Badge: GitHub Copilot - Proficient" width="100" height="100"></a>
+<a href="https://www.credly.com/badges/fbfd233a-9816-4f14-86de-86df782c8060" target="_blank" title="Microsoft Pro Badge: GitHub Copilot - Proficient"><img src="https://images.credly.com/size/100x100/images/86687ad2-84e0-4d7c-876e-ea6c9fe25d82/blob" alt="Microsoft Pro Badge: GitHub Copilot - Proficient" width="100" height="100"></a>
 <a href="https://www.credly.com/badges/f060d65f-914e-41d1-a4ff-5cf0ff9d5570" title="Microsoft Power Up Program – Agents in action"><img src="https://images.credly.com/size/100x100/images/a28cc317-ce52-47ca-8c80-304fc8c098cb/blob" alt="Microsoft Power Up Program – Agents in action" width="100" height="100"></a>
 <a href="https://www.credly.com/badges/046918c8-90e5-471f-8714-12ad1689c483" title="AI Skills Fest 2026"><img src="https://images.credly.com/size/100x100/images/082c8d0c-5232-4597-b6c4-6bebcc4f3046/blob" alt="AI Skills Fest 2026" width="100" height="100"></a>
 <a href="https://www.credly.com/badges/52240785-20cd-45dd-9634-e6ed385e2788" title="Microsoft Power Up Program – Plan Designer Fundamentals"><img src="https://images.credly.com/size/100x100/images/de69d261-4e38-41bc-825a-42d600bd9b96/blob" alt="Microsoft Power Up Program – Plan Designer Fundamentals" width="100" height="100"></a>
