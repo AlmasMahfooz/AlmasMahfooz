@@ -1,13 +1,23 @@
-<a href="https://github.com/AlmasMahfooz/AlmasMahfooz/blob/08aff8bb57c5882ce3ad783cb57365d6e365f090/Images/certificate-hands-on-introduction-to-kql-for-security-analysis-6aaaeaf7aa5cd0250b092d7f.pdf">
-<img src="https://cdn.mycourse.app/v4.276.0/images/certificate.png" alt="KQL Badge" 
-<br><p style="text-align: center;">Hands-On  <br>
-Introduction to   <br>
-KQL for Security  <br>
-Analysis
-</p>
-</a>
-<img src="https://github.com/shannonlindsay/DataDays/blob/main/Images/Cert%20Loading/DP800%20Loading.JPG?raw=true) alt="DP-800" width="120"> 
-<br>
+<table>
+  <tr>
+    <td align="center" valign="top">
+      <a href="https://github.com/AlmasMahfooz/AlmasMahfooz/blob/08aff8bb57c5882ce3ad783cb57365d6e365f090/Images/certificate-hands-on-introduction-to-kql-for-security-analysis-6aaaeaf7aa5cd0250b092d7f.pdf">
+        <img src="https://cdn.mycourse.app/v4.276.0/images/certificate.png" alt="KQL Badge" width="120"><br>
+        Hands-On<br>
+        Introduction to<br>
+        KQL for Security<br>
+        Analysis
+      </a>
+    </td>
+    <td align="center" valign="top">
+      <img src="https://github.com/shannonlindsay/DataDays/blob/main/Images/Cert%20Loading/DP800%20Loading.JPG?raw=true" alt="DP-800" width="120"><br>
+      DP-800<br>
+      Data Days
+    </td>
+  </tr>
+</table>
+
+
 
 <!-- CREDLY-BADGES:START -->
 ![My Credly badges](./assets/credly-badges.svg)
