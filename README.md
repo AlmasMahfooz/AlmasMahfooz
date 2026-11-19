@@ -1,6 +1,3 @@
-<a href="https://stackoverflow.com/users/1312649/almas-mahfooz"><img src="https://stackoverflow.com/users/flair/1312649.png" width="208" height="58" alt="profile for Almas Mahfooz at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Almas Mahfooz at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a><br>
-
-
 <!-- CREDLY-BADGES:START -->
 
 ![My Credly badges](./assets/credly-badges.svg)
@@ -16,5 +13,5 @@
 <img src="https://github.com/AlmasMahfooz/AlmasMahfooz/blob/main/Images/gp2.webp" width="120">
 <img src="https://github.com/AlmasMahfooz/AlmasMahfooz/blob/main/Images/gp3.webp" width="120"></p>
 
-
+<a href="https://stackoverflow.com/users/1312649/almas-mahfooz"><img src="https://stackoverflow.com/users/flair/1312649.png" width="208" height="58" alt="profile for Almas Mahfooz at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Almas Mahfooz at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a><br>
 
