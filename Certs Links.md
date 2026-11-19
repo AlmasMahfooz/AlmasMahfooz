@@ -1,5 +1,5 @@
 
-🏅 **Industry Certifications**
+🏅 
 
 <div align="center">
 
@@ -12,7 +12,6 @@
 
 </div>
 
-📚 **Knowledge & Learning Badges**
 
 <div align="center">
 
