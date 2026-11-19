@@ -1,6 +1,4 @@
-<a href="https://learn.microsoft.com/en-us/users/almasmahfooz-5919/credentials/applied-skills/earned?tab=applied-skills-tab&source=docs"  target="_blank">
-  <img src="https://learn.microsoft.com/en-us/media/learn/credential/badges/applied-skill.svg?branch=main?branch=main" alt="Applied Skills Earned" width="120" />
-</a>
+
 
 <a href="https://learn.microsoft.com/en-us/AlmasMahfooz-5919/3A5382CE20BF5D04?" target="_blank" title="Microsoft Certified: Fabric Analytics Engineer Associate"><img src="https://images.credly.com/size/100x100/images/00a85c3c-0055-4c80-959c-4705601cbc68/converted20261118-33-mb8s2f.png" alt="Microsoft Certified: Fabric Analytics Engineer Associate" width="100" height="100"></a>
 
