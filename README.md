@@ -1,6 +1,6 @@
 <a href="https://github.com/AlmasMahfooz/AlmasMahfooz/blob/08aff8bb57c5882ce3ad783cb57365d6e365f090/Images/certificate-hands-on-introduction-to-kql-for-security-analysis-6aaaeaf7aa5cd0250b092d7f.pdf">
-<p style="text-align: center;">    <img src="https://cdn.mycourse.app/v4.276.0/images/certificate.png" alt="KQL Badge" <br>
-Hands-On  <br>
+<img src="https://cdn.mycourse.app/v4.276.0/images/certificate.png" alt="KQL Badge" <br>
+<br><p style="text-align: center;">Hands-On  <br>
 Introduction to   <br>
 KQL for Security  <br>
 Analysis</title>
